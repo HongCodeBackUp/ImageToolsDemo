@@ -5,14 +5,14 @@
 	"Description": "",
 	"Modules": [
 		{
-			"Name": "ImageToPixelDemo",
+			"Name": "ImageOperatorDemo",
 			"Type": "Runtime",
 			"LoadingPhase": "Default"
 		}
 	],
 	"Plugins": [
 		{
-			"Name": "ImageToPixel",
+			"Name": "ImageOperator",
 			"Enabled": true,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/4d130692de0c4d93a4dc04ad5b01fc40"
 		}

@@ -1,1 +1,1 @@
-# ImageToPixelDemo
+# ImageOperatorDemo
