@@ -3,12 +3,12 @@
 using UnrealBuildTool;
 using System.Collections.Generic;
 
-public class ImageOperatorDemoTarget : TargetRules
+public class ImageToolsDemoTarget : TargetRules
 {
-	public ImageOperatorDemoTarget( TargetInfo Target) : base(Target)
+	public ImageToolsDemoTarget( TargetInfo Target) : base(Target)
 	{
 		Type = TargetType.Game;
 		DefaultBuildSettings = BuildSettingsVersion.V2;
-		ExtraModuleNames.AddRange( new string[] { "ImageOperatorDemo" } );
+		ExtraModuleNames.AddRange( new string[] { "ImageToolsDemo" } );
 	}
 }

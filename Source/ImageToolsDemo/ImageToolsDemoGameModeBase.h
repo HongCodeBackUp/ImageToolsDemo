@@ -4,13 +4,13 @@
 
 #include "CoreMinimal.h"
 #include "GameFramework/GameModeBase.h"
-#include "ImageOperatorDemoGameModeBase.generated.h"
+#include "ImageToolsDemoGameModeBase.generated.h"
 
 /**
  * 
  */
 UCLASS()
-class IMAGEOPERATORDEMO_API AImageOperatorDemoGameModeBase : public AGameModeBase
+class IMAGETOOLSDEMO_API AImageToolsDemoGameModeBase : public AGameModeBase
 {
 	GENERATED_BODY()
 	
