@@ -5,4 +5,5 @@
 # Features list 功能列表
 1: get image type of image file, get image of image binary   
 1: 从图片文件来获取该图片的类型， 从图片的二进制数据获取图片的类型
+Usage Introduction: [LINK](https://github.com/WanWanHa/ImageToolsDemo/wiki/Usage-Introduction)  
 
