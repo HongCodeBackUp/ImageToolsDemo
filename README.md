@@ -30,4 +30,7 @@ and then we create same color of actor and spawn it in level:
 ![image](https://user-images.githubusercontent.com/8192020/214828887-c1b98d3e-bd54-452f-b302-64a42b48ba3a.png)
 
 
+## 4: save file to asset
+## 4: 保存图片为 asset 资源
+![image](https://user-images.githubusercontent.com/8192020/226088590-a519c9cb-f6bd-43dc-a07f-e119f24d490e.png)   
 
